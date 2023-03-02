@@ -1,1 +1,1 @@
-💰 A platform to make advertisements using PHP, laravel, Jquery and Ajax
+💰 A platform to make advertisements. The website uses Laravel as the main technology
